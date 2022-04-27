@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1651041643,,"wq"
+|2,0,1651042024,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,37 @@
 # Registers:
 
 # File marks:
-'0  1  22  ~/file2
-|4,48,1,22,1651041643,"~/file2"
-'1  1  20  ~/file1
-|4,49,1,20,1651041208,"~/file1"
+'0  1  16  ~/file3
+|4,48,1,16,1651042024,"~/file3"
+'1  1  22  ~/file2
+|4,49,1,22,1651041643,"~/file2"
+'2  1  20  ~/file1
+|4,50,1,20,1651041208,"~/file1"
 
 # Jumplist (newest first):
+-'  1  16  ~/file3
+|4,39,1,16,1651042024,"~/file3"
+-'  1  22  ~/file2
+|4,39,1,22,1651041643,"~/file2"
 -'  1  22  ~/file2
 |4,39,1,22,1651041643,"~/file2"
 -'  1  20  ~/file1
 |4,39,1,20,1651041208,"~/file1"
 -'  1  20  ~/file1
 |4,39,1,20,1651041208,"~/file1"
+-'  1  20  ~/file1
+|4,39,1,20,1651041208,"~/file1"
+-'  1  20  ~/file1
+|4,39,1,20,1651041208,"~/file1"
 
 # History of marks within files (newest to oldest):
+
+> ~/file3
+	*	1651042015	0
+	"	1	16
+	^	1	17
+	.	1	16
+	+	1	16
 
 > ~/file2
 	*	1651041633	0
